@@ -39,14 +39,14 @@ input{
   border: 0;
 }
 .ssa{
-  border-radius: 5px;
+ border-radius: 5px;
   background: #E50914;
   display: flex;
   justify-content: space-between;
   width: 250px;
   height: 50px;
   margin-left: 62px;
-  margin-top: 40px;
+  margin-top: 40px; 
   
 }
 .ssa a{
